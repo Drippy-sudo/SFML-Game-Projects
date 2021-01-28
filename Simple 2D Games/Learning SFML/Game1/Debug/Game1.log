@@ -1,0 +1,13 @@
+﻿  Example09.cpp
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Learning SFML\Game1\Example09.cpp(58,64): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Learning SFML\Game1\Example09.cpp(83,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Learning SFML\Game1\Example09.cpp(83,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Game1.vcxproj -> C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Learning SFML\Debug\Game1.exe

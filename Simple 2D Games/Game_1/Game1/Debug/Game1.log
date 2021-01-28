@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_1\Game1\Game.cpp(190,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_1\Game1\Game.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Game1.vcxproj -> C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_1\Debug\Game1.exe

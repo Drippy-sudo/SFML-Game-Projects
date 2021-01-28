@@ -1,0 +1,33 @@
+﻿  Player.cpp
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(157,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(158,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(170,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(171,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(185,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(186,35): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Game1\Player.cpp(63): warning C4172: returning address of local variable or temporary: anim_switch
+  Game1.vcxproj -> C:\Users\Derpy\Documents\SFML Game Projects\Simple 2D Games\Game_4\Debug\Game1.exe
